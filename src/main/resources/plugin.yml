@@ -1,0 +1,6 @@
+name: DamageHalver
+version: ${project.version}
+main: me.steakfisher.damagehalver.DamageHalver
+api-version: 1.17
+authors: [ SteakFisher ]
+description: Halves the damage and shares it with the other player
